@@ -1,0 +1,1 @@
+pointer size is always 8 bytes irrespective of their type
