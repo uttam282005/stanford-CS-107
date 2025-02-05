@@ -1,0 +1,28 @@
+gdb ./<exe / object file>
+run <arg1> <arg2> <input.txt> <output.txt>
+next / n
+b / break <line number / function>
+list
+p / print <variable>
+up 
+down
+backtrace / bt 
+continue
+step
+target record-full
+reverse -target-full
+reverse-next / rn 
+reverse-step
+reverse-continue
+set var <variable name> = <value>
+finish
+watch <variable>
+info (eg.) {info breakpoints} 
+delete <:id>
+whatis <variable name> (returns type) / what <variable name>
+display <variable name>
+undisplay 
+
+
+
+
