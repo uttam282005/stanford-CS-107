@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void change(int n) { n += 10; }
 
 int main(int argc, char *argv[]) {
+  printf("Hello world");
   int a = 10;
   printf("Before %d: ", a);
   change(a);
